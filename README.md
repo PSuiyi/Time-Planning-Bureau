@@ -1,6 +1,7 @@
 # Time-Planning-Bureau
 时间规划局-拒绝拖延症提升效率
 
+https://github.com/PSuiyi/Time-Planning-Bureau/blob/master/app%401x.png
 
 想要告别拖延症？
 想要提高工作学习效率？
