@@ -15,8 +15,8 @@
 
 特色功能：
 -实时展示的widget，人性化交互，操作简单
--精准倒计时，精确到秒，随时切换单位
--美观界面，使用更舒心
+\n-精准倒计时，精确到秒，随时切换单位
+\n-美观界面，使用更舒心
 
 Want to say goodbye to procrastination?
 Want to improve the efficiency of work and study?
@@ -31,5 +31,5 @@ Always believe that good things are about to happen.
 
 special function:
 - Real-time display of widgets, user-friendly interaction, easy to operate
-- Accurate countdown, accurate to the second, switch units at any time
--Beautiful interface, more comfortable to use
+\n- Accurate countdown, accurate to the second, switch units at any time
+\n-Beautiful interface, more comfortable to use
