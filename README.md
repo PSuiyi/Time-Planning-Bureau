@@ -1,5 +1,5 @@
 # Time-Planning-Bureau
-时间规划局-拒绝拖延症提升效率
+生命公式-时间规划局
 
 ![imgae](https://github.com/PSuiyi/Time-Planning-Bureau/blob/master/app%401x.jpg)
 
